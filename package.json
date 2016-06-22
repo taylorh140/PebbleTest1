@@ -1,0 +1,24 @@
+{
+    "author": "taylorh140@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "test",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "TEST",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "1709cfb7-0b93-4138-a43f-f5c444fc9971",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
